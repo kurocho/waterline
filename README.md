@@ -1,1 +1,1 @@
-# waterline
+# Waterline project architecture
